@@ -1,0 +1,23 @@
+* {
+    font-family:'Courier New', Courier, monospace;
+}
+
+
+.log {
+    display: flex;
+    flex: 1;
+}
+
+.log-container{
+    display: flex;
+    flex: 1;
+}
+
+.log-date {
+    font-size:  large;
+    font-weight: bold;
+}
+
+.log-text {
+    font-size:medium;
+}
