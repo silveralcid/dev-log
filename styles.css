@@ -6,11 +6,13 @@
 .log {
     display: flex;
     flex: 1;
+    flex-direction: column;
 }
 
 .log-container{
     display: flex;
     flex: 1;
+    flex-direction: column;
 }
 
 .log-date {
